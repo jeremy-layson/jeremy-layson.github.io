@@ -40,6 +40,11 @@ const collectCourses = (search = '', tags = []) => {
     })
   }
 
+  // if none, then show only first 30
+  if (params.get('tag') === null && params.get('search') === null) {
+    filteredCourses = filteredCourses.slice(0, 30)
+  }
+
 
   let tmpCourses = JSON.parse(JSON.stringify(filteredCourses))
 
@@ -117,8 +122,25 @@ const displayCourses = () => {
       $target.classList.add('is-active')
     })
 
+    
     box.appendChild(template)
   })
+
+  // filters
+  const queryString = window.location.search
+  const params = new URLSearchParams(queryString)
+  // add warning if no search or tag
+  if (params.get('search') === null && params.get('tag') === null) {
+    
+    // add label on top
+    let label = document.createElement('span')
+    label.classList.add('tag')
+    label.classList.add('is-warning')
+    label.classList.add('title')
+    label.classList.add('is-size-6')
+    label.innerHTML = 'Only the newest 30 courses are shown here. Search something, or select a tag to find specific entries'
+    box.prepend(label)
+  }
 }
 
 let interval = null

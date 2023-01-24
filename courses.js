@@ -806,5 +806,789 @@ let courses = [
       "mirrors": []
     },
     "tags": ["Masterclass", "Cooking", "Art"]
-  }
+  },
+  	{
+		"title": "Pimsleur - Albanian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ABip8B0jU1aVSHxlkWyerI1STSNYmD-e",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Eastern) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ClLK98gq69hfpPn7VPaYtYPMxmIVxuTI",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Eastern) II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1PQ4tCvskzG1yhNEtihZcZgqBhGWXyiM8",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Eastern) III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1OItWWCrn2ZqtHZI5VPIn0WEiq_J4-UXp",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Egyptian) - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1_Q2c1JzRd7UWUPGSdef53ZZpoKFCu_Au",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Egyptian) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1P8lmOGiQU9uJJiJ32pD6YzS42cxOabsQ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Modern Standard) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1cAAc5T6xrPu8XrGlSf7HvwzjK2T3BMHK",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Modern Standard) II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1FXLLJOHsFRY4r4rzFrXBh55y8q2GPDVG",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Arabic (Modern Standard) III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1dTb31FLGIZYPfWFyfW_mFfDoUZ6XE4Aa",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Armenian (Eastern) - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=100crUbw3RYGw51D4kKPpEgSJcN-B_ZVW",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Armenian (Western) - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1LB8J_TQgkYSJz2uz6dk8rNO1xX98-TP4",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Cantonese) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1taONDc_BKNAoSVlp6i05bw0vm_J75y-2",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Mandarin) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=11kCozptW02mn7BfPRclbLAIV9HhkRbYJ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Mandarin) II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1_9G53mLdAaEGqcPuITBzBMsiYBk8uYV6",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Mandarin) III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1pWxYTtGk8_pndFOmzftrrSp2sgDuTTIu",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Mandarin) IV",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1yDKK9lKDzmAY5sjJpyn45NRuSac0uPNU",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Chinese (Mandarin) V",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1M5y-7r95qCfJJNFgH-_A4bUeF98HwPbn",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Croatian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1rD9OCxCwvdc1ruDLc1TFR0TSQzvyJgzP",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Czech - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1mHYbIkWhQtAlg8mZygMSbwm2wdat9uOD",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Czech I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1sinvDmjvj5l7_M-OW1AS5FWp7L7elXJD",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Danish - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1mIPpn2xtOcj9Mm4cNHPEM5wspL6f3Dje",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Danish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=17xBk_LVOdftVDZAMF32nq157sQWAaFjl",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Dari Persian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1tY9DaTxjKW2DcjJWwYOJ6ygJ78Kk2eWh",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Dutch - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1lm1Ph6CL1w5Y2rHWajkDpx670K1gmB-0",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Dutch I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1oNrgXTMBA1dRtyMqK8_SSZYRuHlGFtEY",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Farsi Persian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1BoP5tcOyFoUyYDzL5dT-GU_3c7M7jr73",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Farsi Persian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1SHQYUO7zcyLYjfATcBfm1xVo1Znyjd8-",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Finnish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1rDiXvSWjLFUMB4HkBfPXEG17cJSkk6Lc",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1njUqzHtIA2tCrpHwnV0tJwX7T1EioThp",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1CPTpgInNN472rGiEPC-4xmot6XelnBw3",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1eU0VFP7dTZS38wpPpJNdN7Q-g5UqB2ni",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French IV",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1Vfu5AL6tJgzwZN-gTKExgzuriLY5jHIx",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French Plus",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=19jOSSsA0UuZi66S92y7n7OgRbBLoWIPR",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - French V",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1AJTD-nLJjumPGcV2e-UiVDWdp8chhGCc",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1hRWhn7eod1jrx7OZEgS-3Ko5sUh56Wf-",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1AR4D40QpVtWd4V4yMGZs50BO2iVVpuW_",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1hMh7Z37pkXGC4IEkq33DwIfIbGx1I-Po",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German IV FLAC",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1kRptZTJm5-1N_1buyQKyLg_ss4LbFZQU",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German Plus",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=191UPrLWoTTMlH7-yjRzt2aQihYmcFiUC",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - German V",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1a1pqmq3z_P-3CDwD23WCFM8H2fpRQS9-",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Greek",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=13QG8o620Vs4lcQbFPKoiDPAvFpT013fy",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Haitian Creole - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1QKUfZc49plngAb0AhvdNOwHjRSr1G9_N",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Hebrew I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=18qrqwYNdtrXOxHlSv1DDJARMNdTJbwYW",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Hebrew II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=14r_r5XryFs83WUMrTnbj7LVRkzOBs0oG",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Hebrew III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1eDiPsrBbIGJTV_Du4-ZqSETnDgypg_lA",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Hindi - Compact (World Citizen Edition)",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1huRGvXQhUQnIhHyCBYPywS5oiVUOmYD0",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Hungarian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1sr1EzwgOME48v5T5d3kLajoxF6sXxZQN",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Indonesian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1bTv5AdzrKO21G9r_hhVqb8aBDivxAwnq",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Irish - Quick & Simple",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=15YF8-4OgKa6tSLgQEmLHJQ6HZ4-hUnJ1",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Italian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1CHHGnCw9mQAAI2XFVl-wbfK4Pnvqc702",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Italian II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=17e_iVYo79tOerUt55FBzzcT--vRHKz41",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Italian III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1vnckG6b4N71pi0zo_32EN0fG0PE-9rjd",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Italian IV",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1Kw89hfLh9cr3HaSaMd72e-xUYW02dyAQ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Italian V",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1kH4kM7orWKGanYFKTIewzrVgNjXXG19G",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Japanese I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1_9n_VFBgZjbaMztPgxVIFGQhKYCbfqpM",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Japanese II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=13Ghxodi1UpkaDhD2svRqlTrKcThUqUqH",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Japanese III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1wiblYy6wA75FcA_2QAqRk8D9I3j6a9mC",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Japanese IV",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=195neEXiCONmTB0l28ZdzRKK3rb_Mgpk9",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Korean - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=15Y_AXqcd8JoDBqS9tPb5P7lHYswTzOqV",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Korean I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1cUdI_H0d806vIcINJN_kQ7UuQiZZBWCQ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Korean II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1MaVpdQMciWw8BoMIJZIiBlETf4NeSRWn",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Lithuanian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1goy8pfshhVpeOey2hKXo8HvVFnSjcZD2",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Norwegian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1GPmRGTLqNYm6Awjd6PyT1tola61wQj25",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Norwegian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1IVs8d8IuRGEDHkg_dSoLax5uaOeXMzBe",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Ojibwe - Basic",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ykarwSDiwppJpQ3VpEZHmWcHP4JYu8WE",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Ojibwe I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1w7YN6C-_vAllM1-NTl550_FjtDT-NyXU",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Pashto (Afghani) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1L9y0lszE7L6Y5_vu4ZTx9D6A2_M8CtIQ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Polish - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1xJaky1usVq25BcJ3OKSibpjQ4o3Qokml",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Polish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1R6P59nrDb1hLW7RbbQMWayXlyXDMDa2v",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Portuguese (Brazilian) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1hZzqE6WygKD5djQH6I5zEl4AXH9rCW31",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Portuguese (Brazilian) II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1600qJ_I2pmg7yjs9QUMhNMqo7kXLQUWX",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Portuguese (Brazilian) III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1mIm03jFxmONLhd0RjTb0wb9rB5kKBMUB",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Portuguese (European) - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1N67HHUEOviMK9YP_gUh39YnlkbfK1ow_",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Portuguese (European) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=17uRQm-QOPck1R9uqjJRkSAwMsxEV8BHL",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Romanian - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ekv0FRjZjJ8jpk4tMV68FIbk3VSvopMn",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Russian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1vSMS-lunpo3WRGQk06lCZr_y6Edn14dp",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Russian II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=11ZwE99hixX_ojKN-a6_WmCGQeGhjUbKs",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Russian III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1KpezqoVT7hNwvA2J3SZk3CJ2NQ7bdfwy",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish (Castilian) I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1Eg2noRQCg3PQYBdUjvwYxVfgX36IZrvO",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish Express",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1d4R4e3aT_wkVGlHUq-D92kVfs-5e_bR3",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=18LUyYBAlOLQorgqVRp5RHlVL-8GkI9OV",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish II",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1CmG4sy8KIvvEw8M36d-NL9pwB1-0-kic",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish III",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1otMsTci7dnQI5KAK1-idtpP8eiHpS8B6",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish IV",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=18GSwbINzyCVA4bXhy-63ZsdTMi2x6Okw",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish Plus",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1Uf0SkujIPtGdwC_dHige1Emjaj_85pWH",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Spanish V",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=12-C349HNbLmcjPcFeLmdU1TrrxHReEZz",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Swahili - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1hH7onPa0nmjq1sn86wNHCdr-mgflTuSM",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Swedish - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1XYEifnOupBuWcRken_csalwi4OAtp_4k",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Swedish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ffWvaB1sQ4_6zY_FOqGPN4LdtjwhPpaN",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Swiss German - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1STEO4GtkW3AHA5wFW9fp5tDkrB6dG7SL",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Tagalog (Filipino)",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1yhmXarIZZPFTs_Zy85drMq6rb46X1Wx9",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Thai - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1jdnP2U7egao5yAjXvpFz3lq8B4zV-UKJ",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Thai I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=14jx6RE5RPXDxxDItt2ThUiPqpyipEnJb",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Turkish I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1ir-Y8sQsLQHctAZ4yIoA1Jc5WSu2eoyP",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Twi - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=19RWko70joNwa-Kv8FPxs3Hc4k_fCY0WH",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Ukrainian I",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1w6RBb7JFd5rWIzOMoiky2T4BuYLiRp3l",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Urdu I - Comprehensive",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1jw1h5Pxps5AbDDhLbrCFOm3G4O2gqfHr",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Pimsleur - Vietnamese - Compact",
+		"links": {
+			"main": "https://docs.google.com/uc?export=download&id=1uoiyRra1_u3T8ifIZ48Ut0RgDFBRSZ-p",
+		"mirrors": []
+		},
+		"tags": ["Pimsleur", "Language"]
+	}
 ]
