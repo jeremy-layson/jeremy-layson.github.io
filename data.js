@@ -124,7 +124,7 @@ const displayModal = (content) => {
   let download = document.getElementById('modal-download')
   download.href = dataContent.links.main
 
-  let countdown = 3
+  let countdown = 10
   download.innerHTML = 'Your download will begin in ' + countdown + 's'
   
   interval = setInterval(() => {
