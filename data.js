@@ -87,6 +87,14 @@ const displayCourses = () => {
       template.classList.add('is-dark')
     }
 
+    // break, and create new box
+    // plus add an ad-break
+    if (index % 15 === 0 && index !== 0) {
+      let ads = (document.getElementsByClassName('banner-box')[0]).cloneNode(true)
+
+      box.lastChild.parentNode.insertBefore(ads, box.lastChild.nextSibling)
+    }
+
     let title = template.getElementsByClassName('title')[0]
     title.innerHTML = course.title
 

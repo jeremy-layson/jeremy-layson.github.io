@@ -1,0 +1,7 @@
+const ads = [
+  {
+    "image": "",
+    "url": "",
+    
+  }
+]
