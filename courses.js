@@ -1590,5 +1590,45 @@ let courses = [
 		"mirrors": []
 		},
 		"tags": ["Pimsleur", "Language"]
+	},
+	{
+		"title": "Skillshare Publish your website with Github Pages within 20 minutes",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1wv2JPEYMUNPcJc3a0IZjrQEbVDLfl6Ht?usp=share_link",
+		"mirrors": []
+		},
+		"tags": ["Skillshare", "Web Development", "Programming"]
+	},
+	{
+		"title": "Skillshare How to start editing your Youtube videos to Attract a wider audience",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1hwJRpktQBd14sALN_RUC82kdefD-Gfga?usp=share_link",
+		"mirrors": []
+		},
+		"tags": ["Skillshare", "Vlogging"]
+	},
+	{
+		"title": "Skillshare Master Microsoft Excel in 60 minutes",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1pyDFeXbGmPw4OHTrL-J1IL5qwDF8aFhT?usp=share_link",
+		"mirrors": []
+		},
+		"tags": ["Skillshare", "Corporate Skills"]
+	},
+	{
+		"title": "Skillshare Coding 101 Python for Beginners",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1nZWZdUcZqk3uiMo6hpyC9wGt-2ncWq-Z?usp=share_link",
+		"mirrors": []
+		},
+		"tags": ["Skillshare", "Programming", "Python"]
+	},
+	{
+		"title": "Skillshare COMPTIA Cybersecurity analyst CySA+ Exam Bootcamp",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1aLOBCY-mFZF0P_jIYftEcTjggKxKVgGe?usp=share_link",
+		"mirrors": []
+		},
+		"tags": ["Skillshare", "Cybersecurity"]
 	}
 ]
