@@ -1703,4 +1703,84 @@ let courses = [
 		},
 		"tags": ["Skillshare", "Programming", "PHP"]
 	},
+	{
+		"title": "Skillshare Photoshop masterclass for graphic designers",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/19A6wPnTldmSz5XtqyHsn1agdcdoRqmnV?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Photoshop", "Graphic Design"]
+	},
+	{
+		"title": "Skillshare Microsoft Powerpoint entry level course",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1sRuCFcohOm-ziR_JKzdlObuuGtOS99Wc?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Powerpoint"]
+	},
+	{
+		"title": "Skillshare Kurbenetes 101",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1ACgc4wMzXvj3ySCKz2EHpU7GpV_s6zqr?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Kubernetes"]
+	},
+	{
+		"title": "Skillshare Grids and responsive design - Ultimate guide for UX/UI designer Figma",
+		"links": {
+			"main": "https://drive.google.com/file/d/1in4GaPusVXeQPslcIt8BQpgC2ofmRTlH/view?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "CSS", "Figma", "Graphic Design"]
+	},
+	{
+		"title": "Skillshare Beginner guitar: Terminology, tuning & reading music",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1nbe76yn8ModsdPTdyGpYQ3OcSXrLk2s-?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Music"]
+	},
+	{
+		"title": "Skillshare Introduction to LUA programming",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/118n7609e2jO-mEhHWSRJZjbZmZJBrlqp?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "LUA", "Programming"]
+	},
+	{
+		"title": "Skillshare iPhone photography how to take pro photos on your iPhone",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1rrL7qfSqfHaHjaLjlrMX0YNRxpIRvr_3?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Photography"]
+	},
+	{
+		"title": "Skillshare The ultimate google analytics class for beginners",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1gAWdmVG3rZD8_TS41AS_61sQohRA_5Od?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Google Analytics"]
+	},
+	{
+		"title": "Skillshare CSS3 for modern web developers",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/10RwwNFj8VZJU5_C1tigyUxOvBEd9W2wb?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Programming", "CSS"]
+	},
+	{
+		"title": "Skillshare An introduction to power BI 2021",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1fexSI_kyHSSNu_TTPLlWK-3wcaHZGkJA?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Power BI"]
+	}
 ]
