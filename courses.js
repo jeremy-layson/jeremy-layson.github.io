@@ -1782,5 +1782,61 @@ let courses = [
 		  "mirrors": []
 		},
 		"tags": ["Skillshare", "Power BI"]
+	},
+	{
+		"title": "Skillshare Blender 3D for Beginners",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1Z1vqBHUpmUvLB90ppxybkOqJDDIHqDgZ?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Blender", "Graphic Design"]
+	},
+	{
+		"title": "Skillshare IT Helpdesk Starter Pack",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/12fZj_F80MsKSUwPyx2h734Q6fUozxENR?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Corporate Skills"]
+	},
+	{
+		"title": "Skillshare Advanced SEO Strategies 2021",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1Ion3B24kwQo3SLu00USBjqBrdRnmgy3A?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "SEO"]
+	},
+	{
+		"title": "Skillshare Stockmarket Fundamental Analysis Course",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1LvlSbm8frnLK-Sw3M7nFgrsOUcb4FQNi?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Investing"]
+	},
+	{
+		"title": "Skillshare Learn Serverless and AWS",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1M2Ot8j8cw5UXRw_zzTTR4ByswjDgn3Y7?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Programming", "Server"]
+	},
+	{
+		"title": "Skillshare Git and Github Essentials for Beginner",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1BlykfyOIQX7G14qwf6euexY_gvo45BI0?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Programming"]
+	},
+	{
+		"title": "Skillshare PyCharm The Perfect Python IDE in 2021",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1fyeV7LFDNYqbpcgk9dvmhrASd3pkU2YE?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Programming", "Python"]
 	}
 ]
