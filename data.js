@@ -80,6 +80,17 @@ const displayTags = () => {
 }
 
 const displayCourses = () => {
+  let adsList = [
+    {
+      url: 'https://bit.ly/3XUalyY',
+      image: 'ads2.png',
+    },
+    {
+      url: 'https://bit.ly/3XUalyY',
+      image: 'jericho_ads.png',
+    },
+  ]
+
   let courses = collectCourses()
   let box = document.getElementById('courses-box')
 
@@ -92,10 +103,17 @@ const displayCourses = () => {
       template.classList.add('is-dark')
     }
 
+    let randomAds = adsList[Math.floor(Math.random() * adsList.length)]
+
     // break, and create new box
     // plus add an ad-break
     if (index % 15 === 0 && index !== 0) {
       let ads = (document.getElementsByClassName('banner-box')[0]).cloneNode(true)
+      let img = ads.getElementsByClassName('image')[0]
+      let lnk = ads.getElementsByClassName('link')[0]
+
+      img.src = randomAds.image
+      lnk.href = randomAds.url
 
       box.lastChild.parentNode.insertBefore(ads, box.lastChild.nextSibling)
     }
