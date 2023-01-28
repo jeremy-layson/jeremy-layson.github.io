@@ -1845,7 +1845,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1siYJUZqA5oKTM4-KjNMeBBQKKsegK9il?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Vagrant"]
 	},
 	{
 		"title": "Skillshare VPS Mastery Build your own PHP web server with Ubuntu",
@@ -1853,7 +1853,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1vdbosnPZmqJij9AIm6xMamSEfUIbktFM?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Server"]
 	},
 	{
 		"title": "Skillshare Google Ads masterclass 2021",
@@ -1861,7 +1861,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1ZJ87jbb5pLYmNL3wYAkxGo9M8_rU6OzX?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Google Ads"]
 	},
 	{
 		"title": "Skillshare Learn AWS step by step with 3 projects",
@@ -1869,7 +1869,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1E60ISTB58MbamqBJFsuPMJjj6kWGP5zY?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "AWS"]
 	},
 	{
 		"title": "Skillshare Amazon FBA private label product research with Helium",
@@ -1877,7 +1877,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1dg4zfklWlWekNl6cQrhvR6GaBZblzQKb?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "VA Skills"]
 	},
 	{
 		"title": "Skillshare Webflow advanced",
@@ -1885,7 +1885,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1Y2RrmvG7YP_9a3PJsIAKy_D1FrJ6Y-T2?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Webflow"]
 	},
 	{
 		"title": "Skillshare Typography fundamentals",
@@ -1893,7 +1893,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1SilhXj8d03Evek0Gb50Podfr-f69F5sn?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Graphic Design"]
 	},
 	{
 		"title": "Skillshare How to design a website from scratch with wix",
@@ -1901,7 +1901,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1wxhvbIcohvnejRo3iV0gEX28Jt5_VTS6?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Programming", "Wix"]
 	},
 	{
 		"title": "Skillshare IT Project Management for beginners",
@@ -1909,6 +1909,6 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/1wxhvbIcohvnejRo3iV0gEX28Jt5_VTS6?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", ]
+		"tags": ["Skillshare", "Project Management"]
 	}
 ]
