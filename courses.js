@@ -1911,4 +1911,12 @@ let courses = [
 		},
 		"tags": ["Skillshare", "Project Management"]
 	}
+	{
+		"title": "Skillshare Logo Design Masterclass with Canva",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1tWo-HN28het1edSCKVEBlaxiyeGz4Vxg?usp=share_link",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Graphic Design"]
+	}
 ]
