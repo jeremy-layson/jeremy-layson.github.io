@@ -1677,7 +1677,7 @@ let courses = [
 			"main": "https://drive.google.com/drive/folders/15mVFMLiAldnFC6ubnPqkA6_kyk9WF4RP?usp=share_link",
 		  "mirrors": []
 		},
-		"tags": ["Skillshare", "UI/UX", "Graphics Design", "Figma"]
+		"tags": ["Skillshare", "UI/UX", "Graphic Design", "Figma"]
 	},
 	{
 		"title": "Skillshare Google Data Studio 2021",
