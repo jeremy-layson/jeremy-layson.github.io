@@ -1910,7 +1910,7 @@ let courses = [
 		  "mirrors": []
 		},
 		"tags": ["Skillshare", "Project Management"]
-	}
+	},
 	{
 		"title": "Skillshare Logo Design Masterclass with Canva",
 		"links": {
