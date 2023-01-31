@@ -1898,7 +1898,7 @@ let courses = [
 	{
 		"title": "Skillshare How to design a website from scratch with wix",
 		"links": {
-			"main": "https://drive.google.com/drive/folders/1wxhvbIcohvnejRo3iV0gEX28Jt5_VTS6?usp=share_link",
+			"main": "https://drive.google.com/file/d/1ZQ6L7R_1JYOlRgNPFiFKEAADW0sE-v_x/view?usp=share_link",
 		  "mirrors": []
 		},
 		"tags": ["Skillshare", "Programming", "Wix"]
@@ -1918,5 +1918,13 @@ let courses = [
 		  "mirrors": []
 		},
 		"tags": ["Skillshare", "Graphic Design"]
+	},
+	{
+		"title": "Skillshare Wordpress for Newbies",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1nzzizo5gj8KXwmmn5BsKUMns_ebX8W-y?usp=sharing",
+		  "mirrors": []
+		},
+		"tags": ["Skillshare", "Programming", "Wordpress"]
 	}
 ]
