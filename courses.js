@@ -1926,5 +1926,13 @@ let courses = [
 		  "mirrors": []
 		},
 		"tags": ["Skillshare", "Programming", "Wordpress"]
+	},
+	{
+		"title": "Various Politics PDFs",
+		"links": {
+			"main": "https://drive.google.com/drive/folders/1FqDBRb67b77t8UdbpfCcmaPkB69jTpM7?usp=sharing",
+		  "mirrors": []
+		},
+		"tags": ["Politics"]
 	}
 ]
